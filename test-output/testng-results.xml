@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="65916" started-at="2023-03-28T04:28:53Z" finished-at="2023-03-28T04:29:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="65916" started-at="2023-03-28T04:28:53Z" finished-at="2023-03-28T04:29:59Z">
+      <class name="rahulProjectTest.android.ECommerce_Tc_DataProvider">
+        <test-method status="PASS" signature="ConfigureAppium()[pri:0, instance:rahulProjectTest.android.ECommerce_Tc_DataProvider@335eadca]" name="ConfigureAppium" is-config="true" duration-ms="12171" started-at="2023-03-28T04:28:53Z" finished-at="2023-03-28T04:29:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method status="PASS" signature="handleWebView(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:rahulProjectTest.android.ECommerce_Tc_DataProvider@335eadca]" name="handleWebView" duration-ms="22675" started-at="2023-03-28T04:29:05Z" data-provider="getData" finished-at="2023-03-28T04:29:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Argentina]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pinky]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[female]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleWebView -->
+        <test-method status="PASS" signature="teatDown()[pri:0, instance:rahulProjectTest.android.ECommerce_Tc_DataProvider@335eadca]" name="teatDown" is-config="true" duration-ms="693" started-at="2023-03-28T04:29:28Z" finished-at="2023-03-28T04:29:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teatDown -->
+        <test-method status="PASS" signature="ConfigureAppium()[pri:0, instance:rahulProjectTest.android.ECommerce_Tc_DataProvider@335eadca]" name="ConfigureAppium" is-config="true" duration-ms="7630" started-at="2023-03-28T04:29:28Z" finished-at="2023-03-28T04:29:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigureAppium -->
+        <test-method status="PASS" signature="handleWebView(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:rahulProjectTest.android.ECommerce_Tc_DataProvider@335eadca]" name="handleWebView" duration-ms="22094" started-at="2023-03-28T04:29:36Z" data-provider="getData" finished-at="2023-03-28T04:29:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Argentina]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rahul]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleWebView -->
+        <test-method status="PASS" signature="teatDown()[pri:0, instance:rahulProjectTest.android.ECommerce_Tc_DataProvider@335eadca]" name="teatDown" is-config="true" duration-ms="626" started-at="2023-03-28T04:29:58Z" finished-at="2023-03-28T04:29:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teatDown -->
+      </class> <!-- rahulProjectTest.android.ECommerce_Tc_DataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
